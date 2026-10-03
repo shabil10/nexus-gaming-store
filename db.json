@@ -1,0 +1,687 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Nexus Gaming Headset",
+      "category": "Headsets",
+      "brand": "Nexus",
+      "price": 2999,
+      "image": "https://placehold.co/600x600?text=Gaming+Headset",
+      "description": "A comfortable gaming headset with immersive sound.",
+      "stock": 10,
+      "rating": 4.5
+    },
+    {
+      "id": "2",
+      "name": "Nexus Mechanical Keyboard",
+      "category": "Keyboards",
+      "brand": "Nexus",
+      "price": 4499,
+      "image": "https://placehold.co/600x600?text=Gaming+Keyboard",
+      "description": "Mechanical gaming keyboard with RGB lighting.",
+      "stock": 20,
+      "rating": 4.7
+    },
+    {
+      "id": "3",
+      "name": "Nexus Pro Gaming Mouse",
+      "category": "Gaming Mice",
+      "brand": "Nexus",
+      "price": 1999,
+      "image": "https://placehold.co/600x600?text=Gaming+Mouse",
+      "description": "Lightweight gaming mouse with adjustable DPI.",
+      "stock": 25,
+      "rating": 4.4
+    },
+    {
+      "id": "4",
+      "name": "Nexus Wireless Controller",
+      "category": "Controllers",
+      "brand": "Nexus",
+      "price": 3499,
+      "image": "https://placehold.co/600x600?text=Controller",
+      "description": "Wireless controller designed for comfortable gaming.",
+      "stock": 12,
+      "rating": 4.6
+    },
+    {
+      "id": "5",
+      "name": "Nexus 27-inch Gaming Monitor",
+      "category": "Gaming Monitors",
+      "brand": "Nexus",
+      "price": 18999,
+      "image": "https://placehold.co/600x600?text=Gaming+Monitor",
+      "description": "27-inch gaming monitor with a high refresh rate.",
+      "stock": 3,
+      "rating": 4.8
+    },
+    {
+      "id": "6",
+      "name": "Nexus RGB Gaming Chair",
+      "category": "Gaming Chairs",
+      "brand": "Nexus",
+      "price": 12999,
+      "image": "https://placehold.co/600x600?text=Gaming+Chair",
+      "description": "Ergonomic gaming chair with adjustable armrests.",
+      "stock": 4,
+      "rating": 4.3
+    },
+    {
+      "id": "7",
+      "name": "Nexus Gaming Speakers",
+      "category": "Speakers",
+      "brand": "Nexus",
+      "price": 3999,
+      "image": "https://placehold.co/600x600?text=Gaming+Speakers",
+      "description": "Compact speakers with powerful gaming audio.",
+      "stock": 18,
+      "rating": 4.2
+    },
+    {
+      "id": "8",
+      "name": "Nexus HD Gaming Webcam",
+      "category": "Webcams",
+      "brand": "Nexus",
+      "price": 2999,
+      "image": "https://placehold.co/600x600?text=Gaming+Webcam",
+      "description": "HD webcam suitable for streaming and video calls.",
+      "stock": 14,
+      "rating": 4.4
+    },
+    {
+      "id": "9",
+      "name": "Nexus RGB Mouse Pad",
+      "category": "Accessories",
+      "brand": "Nexus",
+      "price": 1499,
+      "image": "https://placehold.co/600x600?text=RGB+Mouse+Pad",
+      "description": "Large RGB mouse pad designed for gaming setups.",
+      "stock": 30,
+      "rating": 4.5
+    },
+    {
+      "id": "10",
+      "name": "Nexus USB Gaming Hub",
+      "category": "Accessories",
+      "brand": "Nexus",
+      "price": 1799,
+      "image": "https://placehold.co/600x600?text=USB+Gaming+Hub",
+      "description": "USB hub with multiple ports for gaming accessories.",
+      "stock": 22,
+      "rating": 4.1
+    },
+    {
+      "id": "11",
+      "name": "Nexus Racing Game",
+      "category": "Games",
+      "brand": "Nexus",
+      "price": 2499,
+      "image": "https://placehold.co/600x600?text=Racing+Game",
+      "description": "Fast-paced racing game with competitive gameplay.",
+      "stock": 39,
+      "rating": 4.6
+    },
+    {
+      "id": "12",
+      "name": "Nexus Adventure Game",
+      "category": "Games",
+      "brand": "Nexus",
+      "price": 2999,
+      "image": "https://placehold.co/600x600?text=Adventure+Game",
+      "description": "Immersive adventure game with an exciting story.",
+      "stock": 29,
+      "rating": 4.7,
+      "isDeleted": false
+    },
+    {
+      "name": "shabil",
+      "category": "Games",
+      "brand": "Nexus",
+      "price": 24,
+      "stock": 1,
+      "description": "wogmo",
+      "image": "kgtgmrlm",
+      "id": "nYzovAUMqh4",
+      "isDeleted": true
+    }
+  ],
+  "users": [
+    {
+      "name": "shabil",
+      "email": "smt8590@gmail.com",
+      "password": "@Shabilmt121",
+      "id": "Jup6JHMMvnM",
+      "phone": "8590953997",
+      "address": {
+        "fullName": "muhammed shabil mt ",
+        "address": ".....",
+        "city": "tirur",
+        "pincode": "676101"
+      }
+    },
+    {
+      "name": "miku",
+      "email": "miku12@gmail.com",
+      "password": "@Shabilmt121",
+      "id": "L2DbQ6qrzqE",
+      "phone": "",
+      "address": {
+        "fullName": "miku",
+        "address": "kannur,house",
+        "city": "kannur",
+        "pincode": "676670"
+      }
+    },
+    {
+      "name": "jaseem",
+      "email": "jaseem21@gmail.com",
+      "password": "@Shabilmt121",
+      "id": "cGBgT4Eekn0",
+      "phone": "",
+      "address": {
+        "fullName": "",
+        "address": "",
+        "city": "",
+        "pincode": ""
+      }
+    },
+    {
+      "name": "hari",
+      "email": "hari21@gmail.com",
+      "password": "@Shabilmt121",
+      "id": "zxRTcESJ9l4"
+    },
+    {
+      "name": "ashika",
+      "email": "ashikaf40@gmail.com",
+      "password": "asdfgj",
+      "id": "YwVmvZfGkzw",
+      "address": {
+        "fullName": "fathima ashika.k",
+        "address": "karunakarath house ,perinthalmanna malappuram",
+        "city": "perinthalmanna",
+        "pincode": "679340"
+      }
+    },
+    {
+      "name": "user",
+      "email": "user123@gmail.com",
+      "password": "@Shabilmt121",
+      "id": "uHlzg1fQFgc",
+      "isDeleted": false,
+      "addresses": [
+        {
+          "id": "1790416263709",
+          "fullName": "user",
+          "address": "kjfnewenevowrn",
+          "city": "fwrno",
+          "pincode": "676101",
+          "phone": "8590953997",
+          "isDefault": true
+        }
+      ],
+      "address": {
+        "fullName": "lwemfem",
+        "address": "wlkefmnlm",
+        "city": "fwellf",
+        "pincode": "676101"
+      }
+    },
+    {
+      "name": "faamil",
+      "email": "famil@gmail.comm",
+      "password": "F@mil466",
+      "id": "5xkzNiUljak",
+      "addresses": [
+        {
+          "id": "1790422000392",
+          "fullName": "famil",
+          "address": "fdcydtygygtfg",
+          "city": "fwrno",
+          "pincode": "678909",
+          "phone": "8767876756",
+          "isDefault": true
+        }
+      ]
+    },
+    {
+      "name": "shabil",
+      "email": "@Shabilmt121",
+      "password": "@Shabilmt121",
+      "id": "N605naBXPWU"
+    }
+  ],
+  "orders": [
+    {
+      "userId": null,
+      "customer": {
+        "fullName": "muhammed shabil mt ",
+        "address": "manikathodika ",
+        "city": "tirur",
+        "pincode": "676101",
+        "phone": "8590953997"
+      },
+      "payment": "cod",
+      "items": [
+        {
+          "id": "1",
+          "name": "Nexus Gaming Headset",
+          "category": "Headsets",
+          "brand": "Nexus",
+          "price": 2999,
+          "image": "https://placehold.co/600x600?text=Gaming+Headset",
+          "description": "A comfortable gaming headset with immersive sound.",
+          "stock": 15,
+          "rating": 4.5,
+          "quantity": 2
+        }
+      ],
+      "subtotal": 5998,
+      "shipping": 0,
+      "total": 5998,
+      "orderDate": "2026-09-15T04:54:49.944Z",
+      "status": "Cancelled",
+      "id": "cgEGvcyoFAg"
+    },
+    {
+      "userId": "Jup6JHMMvnM",
+      "customer": {
+        "fullName": "muhammed shabil mt ",
+        "address": "manikathodika,house",
+        "city": "tirur",
+        "pincode": "676101",
+        "phone": "8590953997"
+      },
+      "payment": "cod",
+      "items": [
+        {
+          "id": "2",
+          "name": "Nexus Mechanical Keyboard",
+          "category": "Keyboards",
+          "brand": "Nexus",
+          "price": 4499,
+          "image": "https://placehold.co/600x600?text=Gaming+Keyboard",
+          "description": "Mechanical gaming keyboard with RGB lighting.",
+          "stock": 20,
+          "rating": 4.7,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 4499,
+      "shipping": 100,
+      "total": 4599,
+      "orderDate": "2026-09-15T12:36:19.366Z",
+      "status": "Pending",
+      "id": "zrvaS2fYA80"
+    },
+    {
+      "userId": "L2DbQ6qrzqE",
+      "customer": {
+        "fullName": "miku",
+        "address": "kannur,houes",
+        "city": "tirur",
+        "pincode": "670702",
+        "phone": "8590953997"
+      },
+      "payment": "cod",
+      "items": [
+        {
+          "id": "1",
+          "name": "Nexus Gaming Headset",
+          "category": "Headsets",
+          "brand": "Nexus",
+          "price": 2999,
+          "image": "/src/assets/nexus-gaming-headset.png",
+          "description": "A comfortable gaming headset with immersive sound.",
+          "stock": 15,
+          "rating": 4.5,
+          "quantity": 3
+        }
+      ],
+      "subtotal": 8997,
+      "shipping": 0,
+      "total": 8997,
+      "orderDate": "2026-09-17T08:32:15.039Z",
+      "status": "Cancelled",
+      "id": "IsFaKM-IFHo"
+    },
+    {
+      "userId": "L2DbQ6qrzqE",
+      "customer": {
+        "fullName": "muhammed shabil mt ",
+        "address": "manikathodiga ",
+        "city": "tirur",
+        "pincode": "676101",
+        "phone": "8590953997"
+      },
+      "payment": "online",
+      "items": [
+        {
+          "id": "1",
+          "name": "Nexus Gaming Headset",
+          "category": "Headsets",
+          "brand": "Nexus",
+          "price": 2999,
+          "image": "/src/assets/nexus-gaming-headset.png",
+          "description": "A comfortable gaming headset with immersive sound.",
+          "stock": 15,
+          "rating": 4.5,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 2999,
+      "shipping": 100,
+      "total": 3099,
+      "orderDate": "2026-09-18T09:45:24.667Z",
+      "status": "Delivered",
+      "id": "X1mnjaNxUwQ"
+    },
+    {
+      "userId": "L2DbQ6qrzqE",
+      "customer": {
+        "fullName": "miku",
+        "address": "ewijifgjkgfdfgfjkfg",
+        "city": "kannur",
+        "pincode": "788578",
+        "phone": "9876543210"
+      },
+      "payment": "cod",
+      "items": [
+        {
+          "id": "2",
+          "name": "Nexus Mechanical Keyboard",
+          "category": "Keyboards",
+          "brand": "Nexus",
+          "price": 4499,
+          "image": "/src/assets/nexus-mechanical-keyboard.png",
+          "description": "Mechanical gaming keyboard with RGB lighting.",
+          "stock": 20,
+          "rating": 4.7,
+          "quantity": 4
+        }
+      ],
+      "subtotal": 17996,
+      "shipping": 0,
+      "total": 17996,
+      "orderDate": "2026-09-25T08:52:58.282Z",
+      "status": "Cancelled",
+      "id": "ilQuM9eH2E0"
+    },
+    {
+      "userId": "L2DbQ6qrzqE",
+      "customer": {
+        "fullName": "miku",
+        "address": "atyugfdfgjkjkl",
+        "city": "dgfgjkjvnm",
+        "pincode": "123456",
+        "phone": "8590953997"
+      },
+      "payment": "cod",
+      "items": [
+        {
+          "id": "3",
+          "name": "Nexus Pro Gaming Mouse",
+          "category": "Gaming Mice",
+          "brand": "Nexus",
+          "price": 1999,
+          "image": "/src/assets/nexus-pro-gaming-mouse.png",
+          "description": "Lightweight gaming mouse with adjustable DPI.",
+          "stock": 25,
+          "rating": 4.4,
+          "quantity": 5
+        }
+      ],
+      "subtotal": 9995,
+      "shipping": 0,
+      "total": 9995,
+      "orderDate": "2026-09-25T08:59:28.966Z",
+      "status": "Pending",
+      "id": "J4_F4-_dWXA"
+    },
+    {
+      "userId": "YwVmvZfGkzw",
+      "customer": {
+        "fullName": "fathima ashika.k",
+        "address": "karunakarath house ,perinthalmanna malappuram",
+        "city": "perinthalmanna",
+        "pincode": "679340",
+        "phone": ""
+      },
+      "payment": "online",
+      "items": [
+        {
+          "id": "12",
+          "name": "Nexus Adventure Game",
+          "category": "Games",
+          "brand": "Nexus",
+          "price": 2999,
+          "image": "/src/assets/nexus-adventure-game.png",
+          "description": "Immersive adventure game with an exciting story.",
+          "stock": 35,
+          "rating": 4.7,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 2999,
+      "shipping": 100,
+      "discount": 0,
+      "coupon": null,
+      "total": 3099,
+      "orderDate": "2026-09-26T06:32:33.203Z",
+      "status": "Cancelled",
+      "id": "hfN7L7N62iY"
+    },
+    {
+      "userId": "YwVmvZfGkzw",
+      "customer": {
+        "fullName": "fathima ashika.k",
+        "address": "karunakarath house ,perinthalmanna malappuram",
+        "city": "perinthalmanna",
+        "pincode": "679340",
+        "phone": ""
+      },
+      "payment": "online",
+      "items": [
+        {
+          "id": "12",
+          "name": "Nexus Adventure Game",
+          "category": "Games",
+          "brand": "Nexus",
+          "price": 2999,
+          "image": "/src/assets/nexus-adventure-game.png",
+          "description": "Immersive adventure game with an exciting story.",
+          "stock": 35,
+          "rating": 4.7,
+          "quantity": 2
+        }
+      ],
+      "subtotal": 5998,
+      "shipping": 0,
+      "discount": 500,
+      "coupon": {
+        "code": "NEXUS500",
+        "type": "fixed",
+        "value": 500
+      },
+      "total": 5498,
+      "orderDate": "2026-09-26T07:00:50.592Z",
+      "status": "Processing",
+      "id": "zByq_ii-DEw"
+    },
+    {
+      "userId": "YwVmvZfGkzw",
+      "customer": {
+        "fullName": "fathima ashika.k",
+        "address": "karunakarath house ,perinthalmanna malappuram",
+        "city": "perinthalmanna",
+        "pincode": "679340",
+        "phone": ""
+      },
+      "payment": "online",
+      "items": [
+        {
+          "id": "12",
+          "name": "Nexus Adventure Game",
+          "category": "Games",
+          "brand": "Nexus",
+          "price": 2999,
+          "image": "/src/assets/nexus-adventure-game.png",
+          "description": "Immersive adventure game with an exciting story.",
+          "stock": 35,
+          "rating": 4.7,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 2999,
+      "shipping": 100,
+      "discount": 0,
+      "coupon": null,
+      "total": 3099,
+      "orderDate": "2026-09-26T07:38:43.999Z",
+      "status": "Pending",
+      "id": "eP94h0AbvvE"
+    },
+    {
+      "userId": "uHlzg1fQFgc",
+      "customer": {
+        "fullName": "user",
+        "address": "kjfnewenevowrn",
+        "city": "fwrno",
+        "pincode": "676101",
+        "phone": "8590953997"
+      },
+      "payment": "online",
+      "items": [
+        {
+          "id": "12",
+          "name": "Nexus Adventure Game",
+          "category": "Games",
+          "brand": "Nexus",
+          "price": 2999,
+          "image": "/src/assets/nexus-adventure-game.png",
+          "description": "Immersive adventure game with an exciting story.",
+          "stock": 34,
+          "rating": 4.7,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 2999,
+      "shipping": 100,
+      "discount": 0,
+      "coupon": null,
+      "total": 3099,
+      "orderDate": "2026-09-26T09:51:14.477Z",
+      "status": "Pending",
+      "id": "wWYDfJ_kSj0"
+    },
+    {
+      "userId": "5xkzNiUljak",
+      "customer": {
+        "fullName": "famil",
+        "address": "fdcydtygygtfg",
+        "city": "fwrno",
+        "pincode": "678909",
+        "phone": "8767876756"
+      },
+      "payment": "cod",
+      "items": [
+        {
+          "id": "12",
+          "name": "Nexus Adventure Game",
+          "category": "Games",
+          "brand": "Nexus",
+          "price": 2999,
+          "image": "/src/assets/nexus-adventure-game.png",
+          "description": "Immersive adventure game with an exciting story.",
+          "stock": 32,
+          "rating": 4.7,
+          "quantity": 1
+        },
+        {
+          "id": "11",
+          "name": "Nexus Racing Game",
+          "category": "Games",
+          "brand": "Nexus",
+          "price": 2499,
+          "image": "/src/assets/nexus-racing-game.png",
+          "description": "Fast-paced racing game with competitive gameplay.",
+          "stock": 40,
+          "rating": 4.6,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 5498,
+      "shipping": 0,
+      "discount": 0,
+      "coupon": null,
+      "total": 5498,
+      "orderDate": "2026-09-26T11:26:40.435Z",
+      "status": "Pending",
+      "id": "a3A3555lZik"
+    },
+    {
+      "userId": "L2DbQ6qrzqE",
+      "customer": {
+        "fullName": "miku",
+        "address": "kannur,house",
+        "city": "kannur",
+        "pincode": "676670",
+        "phone": ""
+      },
+      "payment": "cod",
+      "items": [
+        {
+          "id": "12",
+          "name": "Nexus Adventure Game",
+          "category": "Games",
+          "brand": "Nexus",
+          "price": 2999,
+          "image": "/src/assets/nexus-adventure-game.png",
+          "description": "Immersive adventure game with an exciting story.",
+          "stock": 31,
+          "rating": 4.7,
+          "quantity": 2
+        }
+      ],
+      "subtotal": 5998,
+      "shipping": 0,
+      "discount": 599.8,
+      "coupon": {
+        "code": "NEXUS10",
+        "type": "percentage",
+        "value": 10
+      },
+      "total": 5398.2,
+      "orderDate": "2026-09-26T17:06:35.071Z",
+      "status": "Delivered",
+      "id": "kQTorreCoRQ"
+    }
+  ],
+  "admins": [
+    {
+      "id": "1",
+      "email": "admin@nexus.com",
+      "password": "Admin@123",
+      "name": "Nexus Admin"
+    }
+  ],
+  "coupons": [
+    {
+      "id": "1",
+      "code": "NEXUS10",
+      "type": "percentage",
+      "value": 10,
+      "minimumOrder": 1000,
+      "active": true
+    },
+    {
+      "id": "2",
+      "code": "NEXUS500",
+      "type": "fixed",
+      "value": 500,
+      "minimumOrder": 3000,
+      "active": true
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
